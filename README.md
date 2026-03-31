@@ -13,53 +13,53 @@ This repository serves as my personal workspace and progress tracker for the **3
 ## 📅 The Roadmap
 
 ### Phase 1: Python Foundations
-| Day | Topic | Status |
-| :--- | :--- | :---: |
-| 01 | Introduction & Environment Setup | ⬜ |
-| 02 | Variables & Built-in Functions | ⬜ |
-| 03 | Operators | ⬜ |
-| 04 | Strings | ⬜ |
-| 05 | Lists | ⬜ |
-| 06 | Tuples | ⬜ |
-| 07 | Sets | ⬜ |
-| 08 | Dictionaries | ⬜ |
-| 09 | Conditionals | ⬜ |
-| 10 | Loops | ⬜ |
+| Day | Topic |
+| :--- | :--- |
+| 01 | Introduction & Environment Setup |
+| 02 | Variables & Built-in Functions |
+| 03 | Operators |
+| 04 | Strings |
+| 05 | Lists |
+| 06 | Tuples |
+| 07 | Sets |
+| 08 | Dictionaries |
+| 09 | Conditionals |
+| 10 | Loops |
 
 ### Phase 2: Intermediate Logic & Tools
-| Day | Topic | Status |
-| :--- | :--- | :---: |
-| 11 | Functions | ⬜ |
-| 12 | Modules | ⬜ |
-| 13 | List Comprehension | ⬜ |
-| 14 | Higher Order Functions | ⬜ |
-| 15 | Python Type Errors | ⬜ |
-| 16 | Python Date Time | ⬜ |
-| 17 | Exception Handling | ⬜ |
-| 18 | Regular Expressions | ⬜ |
-| 19 | File Handling | ⬜ |
-| 20 | Python Package Manager (PIP) | ⬜ |
+| Day | Topic |
+| :--- | :--- |
+| 11 | Functions |
+| 12 | Modules |
+| 13 | List Comprehension |
+| 14 | Higher Order Functions |
+| 15 | Python Type Errors |
+| 16 | Python Date Time |
+| 17 | Exception Handling |
+| 18 | Regular Expressions |
+| 19 | File Handling |
+| 20 | Python Package Manager (PIP) |
 
 ### Phase 3: Advanced Data, Web & AI Prep
-| Day | Topic | Status |
-| :--- | :--- | :---: |
-| 21 | Classes and Objects (OOP) | ⬜ |
-| 22 | Web Scraping | ⬜ |
-| 23 | Virtual Environments | ⬜ |
-| 24 | Statistics | ⬜ |
-| 25 | Pandas (Data Analysis) | ⬜ |
-| 26 | Python Web (Flask/Django) | ⬜ |
-| 27 | Python with MongoDB | ⬜ |
-| 28 | API Development | ⬜ |
-| 29 | Building Production APIs | ⬜ |
-| 30 | Final Project & Conclusions | ⬜ |
+| Day | Topic |
+| :--- | :--- |
+| 21 | Classes and Objects (OOP) |
+| 22 | Web Scraping |
+| 23 | Virtual Environments |
+| 24 | Statistics |
+| 25 | Pandas (Data Analysis) |
+| 26 | Python Web (Flask/Django) |
+| 27 | Python with MongoDB |
+| 28 | API Development |
+| 29 | Building Production APIs |
+| 30 | Final Project & Conclusions |
 
 ---
 
 ## 🛠 Tech Stack
-- **Language:** Python 3.x
+- **Language:** Python 3
 - **IDE:** Visual Studio Code
-- **Environment:** Windows 11 IoT Enterprise LTSC (Ryzen 5 7600X System)
+- **Environment:** Windows 11 IoT Enterprise LTSC
 - **Version Control:** Git & GitHub
 
 ---
@@ -70,7 +70,6 @@ Following a structured approach:
 2. **Practice:** Completing daily exercises provided in the course.
 3. **Projects:** Applying knowledge to build resume-worthy artifacts.
 4. **Recall:** Periodic review of previous days to ensure long-term retention.
-
 
 ---
 
