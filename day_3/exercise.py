@@ -1,4 +1,4 @@
-## qu3estion 1 - 7
+## question 1 - 7
 
 # Declare your age as integer variable
 # Declare your height as a float variable
@@ -35,4 +35,5 @@ area = pi*radius**2
 circumference = 2*pi*radius
 print(f"the area of the circle is :{area}")
 print(f"the circumference of the circle is : {circumference}")
+
 
