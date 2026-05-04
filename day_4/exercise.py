@@ -19,3 +19,7 @@ print(len(company))
 print(company.upper())
 print(company.lower())
 print(company.capitalize().title().swapcase())
+
+sentence = "Coding for all "
+first_word = sentence[0:6]
+print(first_word)
